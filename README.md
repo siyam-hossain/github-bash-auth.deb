@@ -23,7 +23,7 @@ For Debian based os
   gh auth login
 ```
 
-#### Step-4 : 
+#### Step-4 : Prompts
 ```bash
   What account do you want to log into? 
   ->GitHub.com
